@@ -1,7 +1,7 @@
 ### Hello 👋
 ### I'm a PhD student, currently working on ecological informatics 🔭
 
-###       :leaves: :leaves: :seedling: :leaves: :leaves:
+###       :leaves:       :leaves:      :seedling:      :leaves:      :leaves:
 
 > These folk are hewers of trees and hunters of beasts; therefore we are their unfriends, and if they will not depart we shall afflict them in all ways that we can.
 — J.R.R. Tolkien
