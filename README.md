@@ -1,5 +1,5 @@
 ### Hello 👋
-### I'm a PhD student, currently working on ecological informatics 🔭
+### I'm a PhD student, currently working on biodiversity informatics 🔭
 
 ### :seedling:
 
