@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello 👋
+### I'm a phD student, currently working on ecological informatics 🔭
 
 <!--
 **CanElverici/CanElverici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
