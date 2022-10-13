@@ -1,6 +1,10 @@
 ### Hello 👋
 ### I'm a PhD student, currently working on ecological informatics 🔭
 
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="https://user-images.githubusercontent.com/16852642/195610680-54af460d-3a2d-45bd-b332-bc1df02c7854.png">
+</picture>
+
 <!--
 **CanElverici/CanElverici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
