@@ -1,4 +1,6 @@
-### Hello 👋
+![Image of Octobi Wan Catnobi](https://octodex.github.com/images/octobiwan.jpg)
+
+
 ### I'm a PhD student, currently working on biodiversity informatics 🔭
 
 ### :seedling:
